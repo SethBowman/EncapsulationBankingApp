@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\bin\Debug\net7.0\EncapsulationBankingApp.exe
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\bin\Debug\net7.0\EncapsulationBankingApp.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\bin\Debug\net7.0\EncapsulationBankingApp.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\bin\Debug\net7.0\EncapsulationBankingApp.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\bin\Debug\net7.0\EncapsulationBankingApp.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\refint\EncapsulationBankingApp.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\EncapsulationBankingApp.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulationBankingApp\EncapsulationBankingApp\obj\Debug\net7.0\ref\EncapsulationBankingApp.dll
